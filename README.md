@@ -10,7 +10,7 @@ Please cite the work below if using information from this repository:
 To clone the repo with the wAIve interface submodule please use the following command:
 
 ```console
-git clone --recurse-submodules https://github.com/cameronmcnz/surface.git 
+git clone --recurse-submodules https://github.com/thecoreyford/Exploring-Reflection-and-Engagment-with-an-AI-based-CST.git
 ```
 
 ---
