@@ -2,62 +2,53 @@
 Auxiliary materials for the paper "Exploring Reflection and Engagement with an AI-based Creativity Support Tool for Music Composition".
 
 Please cite the work below if using information from this repository:
+* [TBC - email c.j.ford@qmul.ac.uk]
 
-[TBC]
+---
+
+# Cloning this repo
+To clone the repo with the wAIve interface submodule please use the following command:
+
+```console
+git clone --recurse-submodules https://github.com/cameronmcnz/surface.git 
+```
 
 ---
 
 # Files and Folders
 
-## RICE Questionnaire Statistics.R
-This file contains all the R code used to run the statistics within the paper.
+## 1_DESIGN
+This folder contains the Auxiliary materials for Section 3 of the paper - Design.
 
-## PHASE 1 - ITEM DEVELOPMENT
-This folder contains the Auxiliary materials for Section 4 of the paper, the item development phase.
+### Interviewers_Prompt_Sheet.pdf
+The pdf prompt sheet used by the interviewer in the iterative design sessions to guide discussion. 
 
-### Item Development Analysis.xlsx
-The responses from all of the experts, including the preliminary analysis is section 4.1. 
+### Iterative_Design_Transcript_w_Annotations.pdf
+The complete transcript of all the sessions with the pairs of participants. The transcript also has the researchers observations annotated, which led to the different design decisions across iterations.  
 
-### Item Development Blank Worksheet for Participants.xlsx
-The blank worksheet sent to the experts to complete, with instructions. Note that the item order would be randomised each time.  
+## 2_USER_STUDY 
+This folder contains the Auxiliary materials for Section 4 of the paper - User Study.
 
-### RICE Questionnaire Info Sheet & Consent Form.pdf
-The information sheet and consent form approved by the Queen Mary ethics committee for Electronic Engineering and Computer Science, for the item development phase (with experts).
+### Interview_Codebook.xlsx
+The codes from the interview transcript, sorted and re-iterated on following a thematic analysis approach.
 
-## PHASE 2 - SCALE DEVELOPMENT 
-This folder contains the Auxiliary materials for Section 5 of the paper, the scale development phase.
+### Interview_Transcript_Coded
+Transcript of the video-cued recall interviews, with the final set of coding annotated.
 
-### Scale Development - RICE Questionnaire Info Sheet and Consent Form v0.1 17 June 2022.pdf
-The information sheet and consent form approved by the Queen Mary ethics committee for Electronic Engineering and Computer Science, for the scale development phase (n=300).
+### Questionnaire_Analysis.R
+This file contains all the R code used to run the statistical analysis in the user study.
 
-### Scale Development Analysis.xlsx
-The cleaned survey data.
+### Questionnaire_Data.xlsx
+The collected questionnaire data from the user study cleaned and sorted, both prior to the development of RiCEv2 and after.
 
-### Scale Development Survey.pdf
-A pdf copy of the survey sent to participants. 
+### Questionnaire_Items.pdf
+The complete set of items asked to participants in the questionnaire.
 
-## PHASE 3 - RICE USER STUDY
-This folder contains the Auxiliary materials for Section 6 of the paper, the RiCE user study.
+### wAIve_Tutorial.mp4
+The video tutorial given to train participants how to use wAIve before their main music composition task.
 
-
-### RiCE User Study - RICE Questionnaire Info Sheet and Consent Form v0.1 17 June 2022 - Test.pdf
-The information sheet and consent form approved by the Queen Mary ethics committee for Electronic Engineering and Computer Science, for the RiCE user study. This was accepted for to the first time completion of the survey.
-
-### RiCE User Study - RICE Questionnaire Info Sheet and Consent Form v0.1 17 June 2022 - Retest.pdf
-The information sheet and consent form approved by the Queen Mary ethics committee for Electronic Engineering and Computer Science, for the RiCE user study. This was accepted for to the second time completion of the survey (retest).
-
-### RiCE User Study Analysis.xlsx
-The cleaned survey data for the user study, first time completion (test).
-
-### RiCE User Study Analysis ReTest.xlsx
-The cleaned survey data for the user study, second time completion (re-test). 
-
-
-### RiCE User Study Survey - Test.pdf
-A pdf copy of the survey sent to participants on test.
-
-### RiCE User Study Survey - Re-Test.pdf
-A pdf copy of the survey sent to participants on re-test.
+## wAIve
+This folder is a git submodule. It contains the development code for the wAIve interface. Visit the repository [at this link](https://github.com/thecoreyford/wAIve) to inspect the different branches, where there is a branch for each design iteration.
 
 ---
 

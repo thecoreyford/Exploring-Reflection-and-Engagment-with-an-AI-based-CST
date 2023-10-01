@@ -1,0 +1,3 @@
+[submodule "wAIve"]
+	path = wAIve
+	url = https://github.com/thecoreyford/wAIve.git
