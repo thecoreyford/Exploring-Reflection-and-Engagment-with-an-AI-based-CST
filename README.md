@@ -1,5 +1,5 @@
 # Exploring-Reflection-and-Engagment-with-an-AI-based-CST
-Auxiliary materials for the paper "Exploring Reflection and Engagement with an AI-based Creativity Support Tool for Music Composition".
+Appendix materials for the paper "Exploring Reflection and Engagement with an AI-based Creativity Support Tool for Music Composition".
 
 Please cite the work below if using information from this repository:
 * [TBC - email c.j.ford@qmul.ac.uk]
@@ -20,11 +20,8 @@ git clone --recurse-submodules https://github.com/thecoreyford/Exploring-Reflect
 ## 1_DESIGN
 This folder contains the Auxiliary materials for Section 3 of the paper - Design.
 
-### Interviewers_Prompt_Sheet.pdf
-The pdf prompt sheet used by the interviewer in the iterative design sessions to guide discussion. 
-
-### Iterative_Design_Transcript_w_Annotations.pdf
-The complete transcript of all the sessions with the pairs of participants. The transcript also has the researchers observations annotated, which led to the different design decisions across iterations.  
+### Design_Iterations.pdf
+Screenshots across all the iterations with the different designers, with explanation of the changes inbetween each iteration.
 
 ## 2_USER_STUDY 
 This folder contains the Auxiliary materials for Section 4 of the paper - User Study.
