@@ -15,16 +15,10 @@ git clone --recurse-submodules https://github.com/thecoreyford/Exploring-Reflect
 
 ---
 
-# Files and Folders
-
-## 1_DESIGN
-This folder contains the Auxiliary materials for Section 3 of the paper - Design.
+# Files and Folders 
 
 ### Design_Iterations.pdf
-Screenshots across all the iterations with the different designers, with explanation of the changes inbetween each iteration.
-
-## 2_USER_STUDY 
-This folder contains the Auxiliary materials for Section 4 of the paper - User Study.
+Screenshots across all the iterations with the different designers, with explanation of the changes inbetween each iteration for Section 3.1 of the paper.
 
 ### Interview_Codebook.xlsx
 The codes from the interview transcript, sorted and re-iterated on following a thematic analysis approach.
@@ -36,13 +30,13 @@ Transcript of the video-cued recall interviews, with the final set of coding ann
 This file contains all the R code used to run the statistical analysis in the user study.
 
 ### Questionnaire_Data.xlsx
-The collected questionnaire data from the user study cleaned and sorted, both prior to the development of RiCEv2 and after.
+The collected questionnaire data from the user study cleaned and sorted.
 
 ### Questionnaire_Items.pdf
 The complete set of items asked to participants in the questionnaire.
 
 ### wAIve_Tutorial.mp4
-The video tutorial given to train participants how to use wAIve before their main music composition task.
+The video tutorial given to train participants on how to use wAIve before their main music composition task.
 
 ## wAIve
 This folder is a git submodule. It contains the development code for the wAIve interface. Visit the repository [at this link](https://github.com/thecoreyford/wAIve) to inspect the different branches, where there is a branch for each design iteration.
